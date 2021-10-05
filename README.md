@@ -1,1 +1,23 @@
 # freecodecamp
+/Responsive /Web /Design
+In this Responsive Web Design Certification, you'll learn the languages that developers use to build webpages: 
+HTML (Hypertext Markup Language) for content, and CSS (Cascading Style Sheets) for design.
+
+First, you'll build a cat photo app to learn the basics of HTML and CSS. Later, you'll learn modern techniques like 
+CSS variables by building a penguin, and best practices for accessibility by building a web form.
+
+Finally, you'll learn how to make webpages that respond to different screen sizes by building a Twitter card with
+ Flexbox, and a complex blog layout with CSS Grid.
+ 
+1.# Basic HTML and HTML5
+HTML is a markup language that uses a special syntax or notation to describe the structure of a webpage to the browser. 
+HTML elements usually have opening and closing tags that surround and give meaning to content. For example, different 
+elements can describe text as a heading, paragraph, or list item.
+In this course, you'll build a cat photo app to learn some of the most common HTML elements — the building blocks of any
+ webpage.
+ 
+ 2.# Basic CSS
+ CSS, or Cascading Style Sheets, tell the browser how to display the text and other content that you write in HTML. With CSS,
+ you can control the color, font, size, spacing, and many other aspects of HTML elements.
+Now that you've described the structure of your cat photo app, give it some style with CSS.
+
