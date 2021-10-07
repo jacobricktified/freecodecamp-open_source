@@ -20,6 +20,8 @@ In this course I learnt to build a cat photo app to learn some of the most commo
  CSS, or Cascading Style Sheets, tell the browser how to display the text and other content that you write in HTML. With CSS,
  you can control the color, font, size, spacing, and many other aspects of HTML elements.
 Now that i have described the structure of your cat photo app, I give it some style with CSS.
+ 
+ 
  3.# Applied visual design
  Visual design is a combination of typography, color theory, graphics, animation, page layout, and more to help deliver your unique message.
 
