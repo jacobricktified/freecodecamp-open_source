@@ -34,10 +34,14 @@ In web development, accessibility refers to web content and a UI (user interface
 In this course, I learn best practices for building webpages that are accessible to everyone.
 
 
-5.Responsive Web Design Principles
+5.# Responsive Web Design Principles
 There are many devices that can access the web, and they come in all shapes and sizes. Responsive web design is the practice of designing flexible websites
  that can respond to different screen sizes, orientations, and resolutions.
 
 In this course, I learn how to use CSS to make your webpages look good, no matter what device they're viewed on.
 
+6.# CSS Flexbox
+Flexbox is a powerful, well-supported layout method that was introduced with the latest version of CSS, CSS3. With flexbox, it's easy to center elements
+ on the page and create dynamic user interfaces that shrink and expand automatically.
 
+In this course, you'll learn the fundamentals of flexbox and dynamic layouts by building a Twitter card.
