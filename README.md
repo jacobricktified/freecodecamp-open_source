@@ -31,5 +31,13 @@ In this course, I learnt how to apply these different elements of visual design 
 4. # Applied Accessibility
 In web development, accessibility refers to web content and a UI (user interface) that can be understood, navigated, and interacted with by a broad audience.
  This includes people with visual, auditory, mobility, or cognitive disabilities.
-In this course, you'll learn best practices for building webpages that are accessible to everyone.
+In this course, I learn best practices for building webpages that are accessible to everyone.
+
+
+5.Responsive Web Design Principles
+There are many devices that can access the web, and they come in all shapes and sizes. Responsive web design is the practice of designing flexible websites
+ that can respond to different screen sizes, orientations, and resolutions.
+
+In this course, I learn how to use CSS to make your webpages look good, no matter what device they're viewed on.
+
 
