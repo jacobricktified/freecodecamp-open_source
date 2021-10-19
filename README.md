@@ -45,3 +45,10 @@ Flexbox is a powerful, well-supported layout method that was introduced with the
  on the page and create dynamic user interfaces that shrink and expand automatically.
 
 In this course, you'll learn the fundamentals of flexbox and dynamic layouts by building a Twitter card.
+
+
+7.# CSS Grid
+The CSS grid is a newer standard that makes it easy to build complex responsive layouts. It works by turning an HTML element into a grid, 
+and lets you place child elements anywhere within.
+
+In this course, you'll learn the fundamentals of CSS grid by building different complex layouts, including a blog.
