@@ -52,3 +52,9 @@ The CSS grid is a newer standard that makes it easy to build complex responsive 
 and lets you place child elements anywhere within.
 
 In this course, you'll learn the fundamentals of CSS grid by building different complex layouts, including a blog.
+
+8. # Responsive Web Design Projects
+Time to put your newly learnt skills to work. By working on these projects, you will get a chance to apply all of the skills, principles, and 
+concepts you have learned so far: HTML, CSS, Visual Design, Accessibility, and more.
+
+Complete the five web programming projects below to earn your Responsive Web Design certification.
